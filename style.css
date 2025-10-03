@@ -71,3 +71,6 @@ footer{
 .cursos li{
     text-align: left;
 }
+.0cursos img {
+    align-items: start;
+}
