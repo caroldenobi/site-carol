@@ -67,3 +67,7 @@ footer{
     margin: 30px 0px;
     font-size: 14px;
 }
+
+.cursos li{
+    text-align: left;
+}
